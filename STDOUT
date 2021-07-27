@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="36.273051">
+    <testcase classname="LoginFeature" name="NO EIP dependency" time="36.273051">
+        <system-out><![CDATA[Given I navigate to the login page..........................................passed
+And I enter "rgauvin@kpmg.fr" and "aezan75".................................passed
+And I click login button....................................................passed
+Then I duplicate folder.....................................................passed
+Then I archieve.............................................................passed
+Then I cancel archieve......................................................passed
+Then I delete duplicated folder.............................................passed
+Then I close the browser....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
